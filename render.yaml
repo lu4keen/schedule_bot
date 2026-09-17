@@ -1,3 +1,4 @@
+﻿```yaml
 services:
   - type: web
     name: my-telegram-bot
@@ -8,3 +9,4 @@ services:
     envVars:
       - key: BOT_TOKEN
         sync: false
+```
